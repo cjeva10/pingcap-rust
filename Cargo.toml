@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    "kvs"
+    "1/kvs"
 ]
